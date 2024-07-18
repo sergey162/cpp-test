@@ -1,3 +1,3 @@
 Test Repository
 
-This repository contains simple realizations STL containers
+This repository contains simple realizations STL containers, concurrency and Labs
